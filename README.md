@@ -4,7 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sameena93/sameena93](https://github.com/sameena93/sameena93)
 
-- 📫 How to reach me **sameenamujawar101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

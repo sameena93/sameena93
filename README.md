@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sameena Mujawar</h1>
 <h3 align="center">A grad student of Data Science.</h3>
 
-#- 👨‍💻 Machine Learning Project available at  [https://github.com/sameena93/myprojects](https://github.com/sameena93/myprojects)
+#- 👨‍💻 Few Machine Learning Projects available at  [https://github.com/sameena93/myprojects](https://github.com/sameena93/myprojects)
 
 <h2>I am insterest in :</h2>
 <ul>

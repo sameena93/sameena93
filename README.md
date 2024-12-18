@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sameena Mujawar</h1>
-<h3 align="center">A grad student of Data Science.</h3>
+<h3 align="center">MS in Data Science</h3>
 
 #- 👨‍💻 Few Machine Learning Projects available at  [https://github.com/sameena93/myprojects](https://github.com/sameena93/myprojects)
 
